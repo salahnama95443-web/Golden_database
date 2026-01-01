@@ -1,0 +1,17 @@
+[
+  {
+    "username": "user_pro",
+    "password": "password123",
+    "role": "VIP"
+  },
+  {
+    "username": "pembeli_setia",
+    "password": "lunas_bayar",
+    "role": "Admin"
+  },
+  {
+    "username": "trial_user",
+    "password": "coba_aja",
+    "role": "user"
+  }
+]
